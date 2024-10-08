@@ -13,7 +13,7 @@ Student template repo.
 ## Links
 
 * [Course website][2024.2-fun-site]
-* [Teacher's repo][2024.2-fun-thanos]
+* [Teacher's repo][2024.2-fun]
 
-[2024.2-fun-site]:    https://tsouanas.org/teaching/fun/2024.2/
-[2024.2-fun-thanos]:  https://github.com/tsouanas/2024.2-fun-thanos
+[2024.2-fun-site]: https://tsouanas.org/teaching/fun/2024.2/
+[2024.2-fun]:      https://github.com/tsouanas/2024.2-fun
